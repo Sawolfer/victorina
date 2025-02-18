@@ -1,0 +1,44 @@
+The supply chain is the process of moving parts and raw materials 
+from their source to factories, where they become products, and then 
+to customers. 
+ 
+In modern manufacturing, there are many suppliers providing 
+different parts. Each of these suppliers may have their own suppliers 
+for simpler parts or raw materials. This is called the upstream part of 
+the supply chain. The downstream part includes distributors and 
+customers, where goods are shipped to various locations at different 
+times.
+
+During this entire process, products need to be stored in warehouses 
+and transported. A lot of information is needed to track where 
+inventory is, when it will arrive, and more. This information must be 
+shared among suppliers, customers, logistics providers, and 
+manufacturers. Good management of this information is key to 
+business success. 
+ 
+Supply Chain Management (SCM) ensures that the right products are 
+in the right place at the right time and in the right amounts. It also 
+includes bigger questions like how many suppliers to have and where 
+to locate production and distribution centers. It looks at how to 
+improve processes and manage payments throughout the supply 
+chain. 
+The goal of SCM is to work with all partners to improve visibility and 
+speed of inventory movement. 
+Logistics involves transportation, warehousing, and inventory 
+management. It can mean planning how to move materials within a 
+company (internal focus) or working with suppliers and customers 
+(external focus). Smaller companies may use the term 'logistics' 
+instead of SCM because it sounds less complex. 
+ 
+Logistics includes both incoming and outgoing goods and also 
+"reverse logistics," where items are returned to the manufacturer. It 
+involves moving goods from one transport method to another at 
+places like distribution centers or warehouses.  
+ 
+There are three main methods used in logistics: 
+1. Hub-and-spoke: with this method items are sent to one central 
+location and then sorted for different destinations. 
+2. Consolidation: smaller shipments are combined into one larger 
+shipment to save on transport costs. 
+3. Deconsolidation: large shipments are split into smaller ones for 
+easier delivery.
